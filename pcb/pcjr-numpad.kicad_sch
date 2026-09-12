@@ -9510,7 +9510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_2.25U"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_2.00U"
 			(at 118.11 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pcjr-numpad-lib:SW_CHERRY_2.25U_Vertical"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_2.00U_Vertical"
 			(at 163.83 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10173,7 +10173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pcjr-numpad-lib:SW_CHERRY_2.25U_Vertical"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_2.00U_Vertical"
 			(at 163.83 40.64 0)
 			(hide yes)
 			(show_name no)
