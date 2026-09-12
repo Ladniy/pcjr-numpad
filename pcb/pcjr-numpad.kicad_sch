@@ -5526,7 +5526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:R_0603"
 			(at 149.86 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -5606,7 +5606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 148.59 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5686,7 +5686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 163.83 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -5766,7 +5766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:C_0603"
 			(at 149.86 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -5848,7 +5848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 163.195 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5952,7 +5952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 117.475 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6054,7 +6054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "pcjr-numpad-lib:SW_K2-1187SQ"
 			(at 257.81 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6134,7 +6134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6216,7 +6216,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 147.955 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6476,7 +6476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:AO_AOZ666xDI_DFN-8-1EP_3x3mm_P0.65mm_EP1.25x2.7mm"
+		(property "Footprint" "pcjr-numpad-lib:SOT-23-3"
 			(at 248.92 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -6715,7 +6715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:Connector_THT_1x4_2.54mm"
 			(at 262.89 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -6801,7 +6801,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:MCU_Holyiot-18010_mini"
 			(at 54.61 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6986,7 +6986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 26.67 172.085 0)
 			(hide yes)
 			(show_name no)
@@ -7145,7 +7145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 133.35 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -7227,7 +7227,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 117.475 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7485,7 +7485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "pcjr-numpad-lib:R_0603"
 			(at 95.25 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7565,7 +7565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "pcjr-numpad-lib:SOT-23-5"
 			(at 57.15 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -7654,7 +7654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 148.59 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -7736,7 +7736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:C_0603"
 			(at 40.64 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7818,7 +7818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:C_0603"
 			(at 36.83 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7975,7 +7975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:WDFN-10-1EP_3x3mm_P0.5mm_EP1.8x2.5mm"
+		(property "Footprint" "pcjr-numpad-lib:Connector_USB_C168688"
 			(at 132.08 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -8102,7 +8102,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:SOT-23-3"
 			(at 31.75 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -8187,7 +8187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:R_0603"
 			(at 95.25 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -8269,7 +8269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 147.955 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -8373,7 +8373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 117.475 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8477,7 +8477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "pcjr-numpad-lib:R_0603"
 			(at 21.59 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -8559,7 +8559,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 147.955 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -8661,7 +8661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 133.35 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -8743,7 +8743,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 132.715 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -8847,7 +8847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:Connector_Battery_18650"
 			(at 262.89 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8927,7 +8927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:AO_AOZ666xDI_DFN-8-1EP_3x3mm_P0.65mm_EP1.25x2.7mm"
+		(property "Footprint" "pcjr-numpad-lib:SW_MSK-12CO2"
 			(at 36.83 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -9010,7 +9010,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 118.11 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9092,7 +9092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:C_0603"
 			(at 86.36 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -9172,7 +9172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 133.35 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9254,7 +9254,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 117.475 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -9510,7 +9510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_2.25U"
 			(at 118.11 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9592,7 +9592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:C_0603"
 			(at 69.85 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_CHERRY_2.25U_Vertical"
 			(at 163.83 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9833,7 +9833,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 132.715 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10013,7 +10013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 148.59 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10093,7 +10093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 118.11 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10173,7 +10173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_CHERRY_2.25U_Vertical"
 			(at 163.83 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10408,7 +10408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 133.35 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10567,7 +10567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 132.715 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -10748,7 +10748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pcjr-numpad-lib:R_0603"
 			(at 160.02 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -10909,7 +10909,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 117.475 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11011,7 +11011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 118.11 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -11093,7 +11093,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 147.955 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11195,7 +11195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 148.59 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -11354,7 +11354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "pcjr-numpad-lib:SW_Cherry_1.00U"
 			(at 118.11 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -11436,7 +11436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 163.195 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -11540,7 +11540,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 163.195 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -11644,7 +11644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 147.955 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -11748,7 +11748,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
+		(property "Footprint" "pcjr-numpad-lib:D_SOD-123"
 			(at 132.715 67.31 0)
 			(hide yes)
 			(show_name no)
