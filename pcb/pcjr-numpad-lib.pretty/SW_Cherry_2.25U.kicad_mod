@@ -7,7 +7,7 @@
 		(at 0 -8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "1a3b7cd3-81f2-473f-b057-792b7f2481de")
+		(uuid "8b77d6ac-f207-4282-8458-c72ab6e0e111")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 6 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "af7aea7e-7821-4379-bc77-41aab522bf37")
+		(uuid "55f9f431-ab02-47b4-bed2-14fa0553f965")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0699c0e2-708a-442b-b678-78a373a13beb")
+		(uuid "2c589e48-9fe2-4f26-b111-482d841fe56c")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5200b6a1-ed4b-4099-aada-c63973891f62")
+		(uuid "2dca7148-e18e-41ab-95dc-ddeefe6ae5c6")
 		(effects
 			(font
 				(size 1 1)
@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr through_hole)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7 -7)
@@ -63,7 +63,7 @@
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "ff580601-48db-453f-ab91-c170feaa911e")
+		(uuid "a5d152b4-e673-443c-a54e-2460acc3d392")
 	)
 	(fp_line
 		(start -7 7)
@@ -73,7 +73,7 @@
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "3b6c6d9b-82c1-420b-b78c-c851b76dd3eb")
+		(uuid "bc212ac9-9a08-444e-a352-1792ad457aef")
 	)
 	(fp_line
 		(start 7 -7)
@@ -83,7 +83,7 @@
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "49510277-1030-496b-9673-358b0094dff2")
+		(uuid "628dc1a2-bde9-498c-bd67-2ac9789aff48")
 	)
 	(fp_line
 		(start 7 7)
@@ -93,7 +93,7 @@
 			(type default)
 		)
 		(layer "Dwgs.User")
-		(uuid "3db264e6-f774-4ca7-9f71-e4e15b2c468c")
+		(uuid "f3cee1e1-d678-4c86-9cbb-bd2a9c5f3924")
 	)
 	(fp_rect
 		(start -21.375 -9.5)
@@ -104,13 +104,13 @@
 		)
 		(fill no)
 		(layer "Dwgs.User")
-		(uuid "eada7cc0-f857-4102-8aba-c89cf1915220")
+		(uuid "360c75b6-bdaf-4d9f-8143-d4057d829f86")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 8 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "215806dd-0b75-4741-bf68-904723cd24b9")
+		(uuid "a4b5c85d-058f-4e19-b95a-7d0bb59dcc30")
 		(effects
 			(font
 				(size 1 1)
@@ -123,49 +123,49 @@
 		(size 3.9878 3.9878)
 		(drill 3.9878)
 		(layers "*.Cu" "*.Mask")
-		(uuid "25882362-f0e0-4d52-90d3-d0c61050cb0a")
+		(uuid "8c782744-ae78-4a49-b527-3bc0fea47e57")
 	)
 	(pad "" np_thru_hole circle
 		(at -11.938 6.985 180)
 		(size 3.048 3.048)
 		(drill 3.048)
 		(layers "*.Cu" "*.Mask")
-		(uuid "a18c84f0-5e0d-4ea9-86f6-7c841ee6cbe5")
+		(uuid "1b4b1b8f-8f1f-4bc0-8b17-724bc7b65549")
 	)
 	(pad "" np_thru_hole circle
 		(at -5.08 0)
 		(size 1.7 1.7)
 		(drill 1.7)
 		(layers "*.Cu" "*.Mask")
-		(uuid "48db8b38-ddb2-43cb-884a-f8435d551780")
+		(uuid "c6f30832-6db8-44b0-9780-6370fc601fe0")
 	)
 	(pad "" np_thru_hole circle
 		(at 0 0)
 		(size 4 4)
 		(drill 4)
 		(layers "*.Cu" "*.Mask")
-		(uuid "4339235e-a04e-40e9-8a5f-1a73d09dfcdd")
+		(uuid "0ddfaea2-97ef-4034-889a-613351cc47d9")
 	)
 	(pad "" np_thru_hole circle
 		(at 5.08 0)
 		(size 1.7 1.7)
 		(drill 1.7)
 		(layers "*.Cu" "*.Mask")
-		(uuid "af2b8b94-3680-4eb8-8f3e-8474cea94fba")
+		(uuid "2e91d137-1504-4a3b-8371-a73b4a837525")
 	)
 	(pad "" np_thru_hole circle
 		(at 11.938 -8.225 180)
 		(size 3.9878 3.9878)
 		(drill 3.9878)
 		(layers "*.Cu" "*.Mask")
-		(uuid "9a753e81-7518-4a7b-a627-a76816e375b2")
+		(uuid "522a9960-8ed8-49ba-b840-ba17957eb96e")
 	)
 	(pad "" np_thru_hole circle
 		(at 11.938 6.985 180)
 		(size 3.048 3.048)
 		(drill 3.048)
 		(layers "*.Cu" "*.Mask")
-		(uuid "3d5f0624-4b54-4df1-8bd6-0dbef714f35c")
+		(uuid "f3ae38e9-cb2f-437f-8274-ec595f87f967")
 	)
 	(pad "1" thru_hole circle
 		(at 2.54 -5.08)
@@ -173,7 +173,7 @@
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "0e3470f8-5929-4cf3-9ac0-52a30c9287a8")
+		(uuid "62a85ae9-6e5d-4225-ab50-248bc648eef4")
 	)
 	(pad "2" thru_hole circle
 		(at -3.81 -2.54)
@@ -181,7 +181,7 @@
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "5418f052-1397-42aa-ad1d-403fd373a474")
+		(uuid "bf7fc556-9112-4fa9-bb3c-eb58300b37d7")
 	)
 	(embedded_fonts no)
 )
